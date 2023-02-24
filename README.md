@@ -1,1 +1,2 @@
-# sales_forecasting
+# Project Overview
+ Using monthly sales data for two different sales segments, I applied three different methods of time series forecasting to predict 2023 sales for these two segments. Because single smoothing, double smoothing, and triple smoothing techniques in forecasting have their own strengths and weaknesses, it's best to try out different techniques to see what fits best to your data's trend and seasonality. 
